@@ -1,3 +1,8 @@
+#Netty 高性能网络协议服务器开发
+# https://blog.jaggerwang.net/netty-high-performance-protocol-server-develop/
+
+
+
 # JW Netty Demo
 
 This demo implemented a tcp protocol server, which receiving and storing monitor data gathered by sensor on hardware device. Multiple sensors can be connected to one device, and device will report data items of all sensors at one time. The server need to compute average value of all data items reported at one time. 
